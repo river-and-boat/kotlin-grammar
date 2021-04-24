@@ -100,7 +100,7 @@
     * 函数返回值
       函数块的最后一行/return表达式
     * 示例
-      ```
+    ```
     // 此处要调用people的name 和 age属性，且要判空
     // kotlin
     val people = People("carson", 25)
@@ -112,7 +112,7 @@
     User peole = new People("carson", 25);
     String var1 = "my name is " + peole.name + ", I am " + peole.age + " years old";
     System.out.println(var1);
-      ```
+    ```
 
   * apply
     * 函数定义
