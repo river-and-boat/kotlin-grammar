@@ -68,13 +68,13 @@
     * 函数返回值
       函数的最后一行/return
     * 使用方式
-      ```
-      with(object) {
-        function1()
-        function2()
-        function3()
-      }
-      ```
+    ```
+    with(object) {
+      function1()
+      function2()
+      function3()
+    }
+    ```
     * 示例
     ```
     // 此处要调用people的name 和 age属性
