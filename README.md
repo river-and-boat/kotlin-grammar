@@ -5,3 +5,5 @@
   implementation group: 'org.jetbrains.kotlin', name: 'kotlin-android-extensions-runtime', version: '1.4.32'
   然后在plugins中启用kotlin-android-extensions:
   id 'kotlin-android-extensions'
+
+## kotlin中内置函数let、also、with、run、apply
