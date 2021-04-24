@@ -9,5 +9,6 @@
   ```
   id 'kotlin-android-extensions'
   ```
+  ***
   
 ## kotlin中内置函数let、also、with、run、apply
